@@ -1,0 +1,2 @@
+export const SET_ERROR_STATE = 'SET_ERROR_STATE';
+export const SET_INVOICES = 'SET_INVOICES';
